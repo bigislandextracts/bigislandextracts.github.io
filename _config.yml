@@ -14,7 +14,9 @@ github_username:  bigislandextracts
 markdown: kramdown
 
 collections:
-  - services:
+  posts:
+    output: true
+  services:
      output: true
 
 copyright: Big Island Extracts
