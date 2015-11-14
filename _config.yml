@@ -12,3 +12,43 @@ github_username:  bigislandextracts
 
 # Build settings
 markdown: kramdown
+
+collections:
+  - services:
+     output: true
+
+copyright: Big Island Extracts
+
+owner:
+  name: Big Island Extracts
+  address: 
+  phone: 
+  email: info@bigislandextracts.com
+  company: Big Island Extracts
+  site:           http://bigislandextracts.github.io
+  avatar:         
+  bio:            ""
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: 
+  facebook: 
+  github: 
+  stackexchange: 
+  linkedin: 
+  instagram:
+  flickr:
+  tumblr:
+  # google plus id, include the '+'
+  google_plus: 
+
+google_analytics:
+
+defaults:
+  -
+    scope: 
+      path: ""
+      type: posts
+    values: 
+      author: "Tech Rapport"
+      layout: post
+      path: "/blog/"
+      permalink:
